@@ -1,6 +1,6 @@
 {
   "latestVersion": "1.2.6",
-  "forceUpdate": false,
+  "forceUpdate": true,
   "announcements": [
     { "title": "Bike Directions Temporarily Unavailable", "message": "Bike Directions are temporarily unavailable due to server maintenance. We’re working to restore the service as soon as possible. Thank you for your patience and understanding!", "ar_title": "اتجاهات الدراجات متوقفة مؤقتًا", "ar_message": "تجاهات الدراجات غير متاحة مؤقتًا بسبب إجراء صيانة على الخادم. نعمل على إعادة الخدمة في أقرب وقت ممكن. شكرًا لصبركم وتفهمكم!"  }
   ]
