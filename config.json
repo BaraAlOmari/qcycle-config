@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.2.5",
+  "latestVersion": "1.2.6",
   "forceUpdate": false,
   "announcements": [
     { "title": "Test", "message": "test", "ar_title": "اختبار", "ar_message": "اختبار"  }
