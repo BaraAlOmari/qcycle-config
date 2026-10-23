@@ -1,12 +1,5 @@
 {
   "latestVersion": "1.4.1",
   "forceUpdate": false,
-  "announcements": [
-    {
-      "title": "Rain & Thunderstorm Alert",
-      "message": "Rain, thunderstorms, and slippery road conditions may make cycling dangerous. Stop your ride and seek safe shelter if thunderstorms are nearby. Avoid flooded roads and exposed areas.",
-      "ar_title": "تنبيه: أمطار وعواصف رعدية",
-      "ar_message": "قد تجعل الأمطار والعواصف الرعدية والطرق الزلقة ركوب الدراجة خطيراً. توقّف عن القيادة وابحث عن مأوى آمن إذا كانت العواصف الرعدية قريبة. تجنّب الطرق المغمورة بالمياه والأماكن المكشوفة."
-    }
-  ]
+  "announcements": []
 }
